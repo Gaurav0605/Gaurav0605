@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I am the **Most Eligible Man** in the world of Data Science and Machine Learning, equipped with a vast arsenal of technical skills and a relentless passion for solving complex problems. With years of experience in the industry, I currently serve as a **Senior Data Scientist and Machine Learning Engineer** at **Magnifying India**, a leading company in digitalization and software engineering.
+I am the **visionary** in the world of Data Science and Machine Learning, equipped with a vast arsenal of technical skills and a relentless passion for solving complex problems. With years of experience in the industry, I currently serve as a **Senior Data Scientist and Machine Learning Engineer** at **Magnifying India**, a leading company in digitalization and software engineering.
 
 ## 🛠️ Technical Expertise
 
@@ -42,7 +42,7 @@ I specialize in a wide range of tools, technologies, and techniques, ensuring th
 
 ## 💼 Professional Experience
 
-**Senior Data Scientist & Machine Learning Engineer**  
+**Data Scientist & Machine Learning Engineer**  
 *Magnifying India - Digitalizing the World and Software Engineering Works*
 
 - Leading data science initiatives that drive the digital transformation of global clients.
