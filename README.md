@@ -2,7 +2,7 @@
 
 # 🧠 I'm Gaurav Singh Data Science & Machine Learning Engineer
 
-![GitHub Profile](https://img.shields.io/badge/Data_Science-blue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-green) ![Magnifying India](https://img.shields.io/badge/Senior_Data_Scientist-Magnifying_India-orange)
+![GitHub Profile](https://img.shields.io/badge/Data_Science-blue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-green) ![Magnifying India](https://img.shields.io/badge/Data_Scientist-Magnifying_India-orange)
 
 ## 👋 About Me
 
