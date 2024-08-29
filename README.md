@@ -2,11 +2,11 @@
 
 # 🧠 I'm Gaurav Singh Data Science & Machine Learning Engineer
 
-![GitHub Profile](https://img.shields.io/badge/Data_Science-Master-blue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-green) ![Magnifying India](https://img.shields.io/badge/Senior_Data_Scientist-Magnifying_India-orange)
+![GitHub Profile](https://img.shields.io/badge/Data_Science-blue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-green) ![Magnifying India](https://img.shields.io/badge/Senior_Data_Scientist-Magnifying_India-orange)
 
 ## 👋 About Me
 
-I am the **visionary** in the world of Data Science and Machine Learning, equipped with a vast arsenal of technical skills and a relentless passion for solving complex problems. With years of experience in the industry, I currently serve as a **Senior Data Scientist and Machine Learning Engineer** at **Magnifying India**, a leading company in digitalization and software engineering.
+I am the **visionary** in the world of Data Science and Machine Learning, equipped with a vast arsenal of technical skills and a relentless passion for solving complex problems. With years of experience in the industry, I currently serve as a **Data Scientist and Machine Learning Engineer** at **Magnifying India**, a leading company in digitalization and software engineering.
 
 ## 🛠️ Technical Expertise
 
